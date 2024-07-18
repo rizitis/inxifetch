@@ -18,7 +18,7 @@ Output is:
 ![](./1.png)
 
 You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors... <br>also you can add all ```inxi -options``` for more special output.   <br>
-<b>Examples:</b>
+<b>Examples:</b><br>
 ![](./2.png)
 <br>
 ![](./3.png)
