@@ -45,6 +45,6 @@ Paypal: https://www.paypal.com/donate/?hosted_button_id=77DQVM6A4L5E2
 
 LiberaPay (sustaining donations): https://liberapay.com/smxi/<br>
 
-Or to figlet project: http://www.figlet.org/
+Or to **figlet project**: http://www.figlet.org/
 
 
