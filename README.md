@@ -17,7 +17,7 @@ figlet
 Output is:<br> 
 ![](./1.png)
 
-You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors... <br>
+You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors... <br>also you can add all ```inxi -options``` for more special output.   <br>
 <b>Examples:</b><br>
 ![](./2.png)
 <br>
@@ -27,14 +27,10 @@ You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom co
 <br>
 ![](./5.png)
 
-<br>Also you can use **all** ```inxi -options``` for more special outputs.   <br>
-Like: `inxifetch Fxx` <br>
+<br>also you can add all ```inxi -options``` for more special output.   <br>
+something like `inxifetch Fxx`<br>
 ![](./a.png)
-![](./b.png)<br>
-
-Or `inxifetch r`<br>
-![](./c.png)
-![](d.png)
+![](./b.png)
 
 
 
