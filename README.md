@@ -20,6 +20,8 @@ Output is:<br>
 ![](1.png)
 <br>
 ![](ubuntu2.png)
+<br>
+![](slint.png)
 
 You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors and fonts... <br>
 <b>Examples:</b><br>
