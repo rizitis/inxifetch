@@ -27,7 +27,7 @@ You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom co
 <br>
 ![](./5.png)
 
-<br>Also you can add all ```inxi -options``` for more special output.   <br>
+<br>Also you can use **all** ```inxi -options``` for more special output.   <br>
 something like `inxifetch Fxx`<br>
 ![](./a.png)
 ![](./b.png)<br>
