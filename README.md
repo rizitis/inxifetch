@@ -16,25 +16,25 @@ figlet
 ```inxifetch```
 
 Output is:<br> 
-![](./1.png)
+![](1.png)
 
 You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors and fonts... <br>
 <b>Examples:</b><br>
-![](./2.png)
+![](2.png)
 <br>
-![](./3.png)
+![](3.png)
 <br>
-![](./4.png)
+![](4.png)
 <br>
-![](./5.png)
+![](5.png)
 
 <br>Also you can use **all** ```inxi -options``` for more special output.   <br>
 something like `inxifetch Fxx`<br>
-![](./a.png)
-![](./b.png)<br>
+![](a.png)
+![](b.png)<br>
 OR `inxifetch r`<br>
-![](./c.png)
-![](./d.png)
+![](c.png)
+![](d.png)
 
 --------------------------------------------------------------------------------
 #### DONATE
