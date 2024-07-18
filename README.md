@@ -40,6 +40,8 @@ something like `inxifetch Fxx`<br>
 OR `inxifetch r`<br>
 ![](c.png)
 ![](d.png)
+![](ubuntu1.png)
+![](ubuntu3.png)
 
 #### Have Fun  
 In case you want to build it...<br>
@@ -48,10 +50,6 @@ md5: `3e5b7ff92c7953a7a1babad240560d97` <br>
 And create your build script...<br>
 `inxifetch` script should be installed in<br> `/usr/local/bin` **or** `/opt` <br>
 and `inxifetch.conf` to `/etc/inxifetch`, so <br>`mkdir /etc/inxifetch` needed before.
-
-![](ubuntu1.png)
-![](ubuntu3.png)
-
 
 --------------------------------------------------------------------------------
 #### DONATE
