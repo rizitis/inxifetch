@@ -1,0 +1,16 @@
+#!/bin/bash
+
+distro_name=$(inxi -S | grep -m 1 "Distro" | sed 's/^.*Distro:\s*//;s/\s*$//' | xargs)
+
+
+. /etc/inxifetch/inxifetch.conf
+
+fgl="$(figlet -f standard $distro_name)"
+echo -e "$colorF$fgl\e[0m"
+
+inxi -c $color -Ib"$1"
+
+fglr="$(figlet -f standard -Rl $distro_name)"
+echo -e "$colorF$fglr\e[0m"
+
+
