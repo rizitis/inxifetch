@@ -35,6 +35,16 @@ OR `inxifetch r`<br>
 ![](./c.png)
 ![](./d.png)
 
+--------------------------------------------------------------------------------
+#### DONATE
+--------------------------------------------------------------------------------
+I do not accept donations, but if you want to make a donation please donate to **original inxi developer**:<br>
+Help support the inxi project with a one time or a sustaining donation.
 
+Paypal: https://www.paypal.com/donate/?hosted_button_id=77DQVM6A4L5E2
+
+LiberaPay (sustaining donations): https://liberapay.com/smxi/<br>
+
+Or to figlet project: http://www.figlet.org/
 
 
