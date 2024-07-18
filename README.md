@@ -6,7 +6,7 @@ inxi
 figlet
 ```
 ### Installation
-1. Just install in your $PATH inxifetch and make it executable. 
+1. Just install in your $PATH `inxifetch` script and make it executable. 
 2. Create a folder `/etc/inxifetch` and place there `inxifetch.conf`
 
 
@@ -17,7 +17,7 @@ figlet
 Output is:<br> 
 ![](./1.png)
 
-You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors... <br>also you can add all ```inxi -options``` for more special output.   <br>
+You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors... <br>
 <b>Examples:</b><br>
 ![](./2.png)
 <br>
@@ -27,7 +27,7 @@ You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom co
 <br>
 ![](./5.png)
 
-<br>Also you can add all ```inxi -options``` for more special output.   <br>
+<br>Also you can use **all** ```inxi -options``` for more special output.   <br>
 something like `inxifetch Fxx`<br>
 ![](./a.png)
 ![](./b.png)<br>
@@ -35,6 +35,16 @@ OR `inxifetch r`<br>
 ![](./c.png)
 ![](./d.png)
 
+--------------------------------------------------------------------------------
+#### DONATE
+--------------------------------------------------------------------------------
+I do not accept donations, but if you want to make a donation please donate to **original inxi developer**:<br>
+Help support the inxi project with a one time or a sustaining donation.
 
+Paypal: https://www.paypal.com/donate/?hosted_button_id=77DQVM6A4L5E2
+
+LiberaPay (sustaining donations): https://liberapay.com/smxi/<br>
+
+Or to **figlet project**: http://www.figlet.org/
 
 
