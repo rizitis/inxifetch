@@ -6,7 +6,7 @@ inxi
 figlet
 ```
 ### Installation
-1. Just install in your $PATH inxifetch and make it executable. 
+1. Just install in your $PATH `inxifetch` script and make it executable. 
 2. Create a folder `/etc/inxifetch` and place there `inxifetch.conf`
 
 
