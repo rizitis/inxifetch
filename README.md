@@ -8,7 +8,8 @@ figlet
 ### Installation
 1. Just download and install in your $PATH `inxifetch` script and make it executable. 
 2. Create a folder `/etc/inxifetch` download and place there `inxifetch.conf`
-3. Thats all!
+3. Assume you download `inxifetch` script in your `/opt` If /opt its not in your user $PATH<br>
+add this line in your ~/.bashrc `export PATH=$PATH:/opt`
 
 
 ### Usage
