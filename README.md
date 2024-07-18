@@ -17,7 +17,7 @@ figlet
 Output is:<br> 
 ![](./1.png)
 
-You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors... <br>
+You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors and fonts... <br>
 <b>Examples:</b><br>
 ![](./2.png)
 <br>
@@ -46,5 +46,7 @@ Paypal: https://www.paypal.com/donate/?hosted_button_id=77DQVM6A4L5E2
 LiberaPay (sustaining donations): https://liberapay.com/smxi/<br>
 
 Or to **figlet project**: http://www.figlet.org/
+
+#### Have Fun
 
 
