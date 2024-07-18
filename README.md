@@ -18,6 +18,8 @@ add this line in your ~/.bashrc `export PATH=$PATH:/opt`
 
 Output is:<br> 
 ![](1.png)
+<br>
+![](ubuntu2.png)
 
 You can modify `etc/inxifetch/inxifetch.conf` as you want to play with custom colors and fonts... <br>
 <b>Examples:</b><br>
@@ -44,6 +46,9 @@ md5: `3e5b7ff92c7953a7a1babad240560d97` <br>
 And create your build script...<br>
 `inxifetch` script should be installed in<br> `/usr/local/bin` **or** `/opt` <br>
 and `inxifetch.conf` to `/etc/inxifetch`, so <br>`mkdir /etc/inxifetch` needed before.
+
+![](ubuntu1.png)
+![](ubuntu3.png)
 
 
 --------------------------------------------------------------------------------
