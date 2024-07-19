@@ -1,5 +1,5 @@
 # inxifetch
-inxifetch is an [inxi](https://codeberg.org/smxi/inxi) plugin and need [figlet](http://www.figlet.org/) to run properly<br>
+inxifetch is an [inxi](https://codeberg.org/smxi/inxi) plugin and need [figlet](http://www.figlet.org/) to run properly hopefully in all Linux systems<br>
 ### Required:
 ```
 inxi
