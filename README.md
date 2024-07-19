@@ -45,8 +45,7 @@ OR `inxifetch r`<br>
 
 #### Have Fun  
 In case you want to build it...<br>
-Download from [release](https://github.com/rizitis/inxifetch/releases) 1.0.tar.gz<br>
-md5: `3e5b7ff92c7953a7a1babad240560d97` <br>
+Download from [release](https://github.com/rizitis/inxifetch/releases) latest.tar.gz<br>
 And create your build script...<br>
 `inxifetch` script should be installed in<br> `/usr/local/bin` **or** `/opt` <br>
 and `inxifetch.conf` to `/etc/inxifetch`, so <br>`mkdir /etc/inxifetch` needed before.
