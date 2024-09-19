@@ -13,6 +13,7 @@ add this line in your ~/.bashrc `export PATH=$PATH:/opt` and dont forget to make
 4. For Slackware users there is an [inxifetch.SlackBuild](https://github.com/rizitis/One4All_SlackBuild/tree/main/inxifetch)
 
 ### Usage
+*You can use inxifetch with all inxi -options or just type inxifetch for the default output*
 
 ```inxifetch```
 
