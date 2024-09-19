@@ -6,17 +6,17 @@ inxi
 figlet
 ```
 ### Installation
-1. Just download and install in your $PATH `inxifetch` script and make it executable. 
+1. Just download and install in your $PATH `inxifetch` script and make it executable.
 2. Create a folder `/etc/inxifetch` download and place there `inxifetch.conf`
 3. Assume you download `inxifetch` script in your `/opt` If `/opt` its not in your user $PATH<br>
 add this line in your ~/.bashrc `export PATH=$PATH:/opt` and dont forget to make it executable `sudo chmod +x /opt/inxifetch`
-
+4. For Slackware users there is an [inxifetch.SlackBuild](https://github.com/rizitis/One4All_SlackBuild/tree/main/inxifetch)
 
 ### Usage
 
 ```inxifetch```
 
-Output is:<br> 
+Output is:<br>
 ![](1.png)
 <br>
 ![](ubuntu2.png)
@@ -43,7 +43,7 @@ OR `inxifetch r`<br>
 ![](ubuntu1.png)
 ![](ubuntu3.png)
 
-#### Have Fun  
+#### Have Fun
 In case you want to build it...<br>
 Download from [release](https://github.com/rizitis/inxifetch/releases) latest.tar.gz<br>
 And create your build script...<br>
@@ -61,7 +61,3 @@ Paypal: https://www.paypal.com/donate/?hosted_button_id=77DQVM6A4L5E2
 LiberaPay (sustaining donations): https://liberapay.com/smxi/<br>
 
 Or to **figlet project**: http://www.figlet.org/
-
-
-
-
