@@ -23,7 +23,7 @@ exit 1
 fi
 
 #inxi -c $color -Ib"$1"
-inxi -c $color -SAIDr"$1"
+inxi -c $color -bA"$1"
 if [[ $distro_name == full_distro_name_version ]]; then
    fglr="$(figlet -f $FontType -Rl $full)"
    echo -e "$colorF$fglr\e[0m"
