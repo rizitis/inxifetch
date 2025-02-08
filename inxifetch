@@ -1,4 +1,7 @@
 #!/bin/bash
+#
+# inxifetch-2024.07.190
+
 
 . /etc/inxifetch/inxifetch.conf
 
@@ -19,8 +22,8 @@ echo "Please correct you file and come back..."
 exit 1
 fi
 
-inxi -c $color -Ib"$1"
-
+#inxi -c $color -Ib"$1"
+inxi -c $color -SAIDr"$1"
 if [[ $distro_name == full_distro_name_version ]]; then
    fglr="$(figlet -f $FontType -Rl $full)"
    echo -e "$colorF$fglr\e[0m"
